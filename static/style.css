@@ -6,7 +6,7 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #f1f1f1;
+  background: #fdf9f9;
 }
 
 /* Header/Blog Title */
@@ -14,7 +14,7 @@ body {
   padding: 30px;
   text-align: center;
   background: white;
-  color: #111010;
+  color: #070707;
   font-family: fantasy;
 }
 
