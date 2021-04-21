@@ -574,3 +574,4 @@ function deleteFoodItem(i) {
 }
 
 
+w3.includeHTML()
